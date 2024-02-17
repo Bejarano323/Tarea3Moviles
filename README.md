@@ -6,7 +6,7 @@
     Lamentablemente subestime el tiempo y no pude realizar otras partes del App. 
   
   </p> 
-  ##Lo que aprendi 
+  ## Lo que aprendi 
     - Como usar el navigator
     - Manejo del contexto
     - Como agregar assets
