@@ -11,9 +11,13 @@
     - Manejo del contexto
     - Como agregar assets
   ## Screenshots
-  ![Screenshot](https://github.com/Bejarano323/Tarea3Moviles/blob/main/assets/Screenshots.png)
-  ![Screenshot](https://github.com/Bejarano323/Tarea3Moviles/blob/main/assets/Screenshots2.png)
+  
+  ![Screenshot](<./assets/Screenshots.png>)
+  
+  ![Screenshot2](<./assets/Screenshots.png>)
+  
   ## Link Al video
+  
   [Tare03](https://youtu.be/WEgLl0TRWcs)
 
 
